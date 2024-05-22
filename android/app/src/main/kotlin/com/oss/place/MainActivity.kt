@@ -1,4 +1,4 @@
-package com.oss.place.my_app
+package com.oss.place
 
 import io.flutter.embedding.android.FlutterActivity
 

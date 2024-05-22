@@ -1,4 +1,4 @@
-name: my_app
+name: place
 description: Event ticketing application
 version: 1.0.0+1
 publish_to: none
@@ -13,7 +13,7 @@ dependencies:
   flutter_bloc: ^8.1.4
   flutter_localizations:
     sdk: flutter
-  intl: ^0.18.1
+  intl: ^0.19.0
 
 dev_dependencies:
   bloc_test: ^9.1.6
