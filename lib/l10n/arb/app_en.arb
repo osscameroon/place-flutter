@@ -3,5 +3,13 @@
     "counterAppBarTitle": "Counter",
     "@counterAppBarTitle": {
         "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "welcome": "Welcome to Place! \uD83D\uDC4B",
+    "@welcome": {
+        "description": "Welcome text in onboarding screen one"
+    },
+    "welcomeLabel": "The best event booking and online ticketing application in this century.",
+    "@welcomeLabel": {
+        "description": "Welcome label in onboarding screen one"
     }
 }
