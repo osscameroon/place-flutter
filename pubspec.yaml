@@ -31,3 +31,11 @@ assets:
   - assets/images/
   - assets/icons/
   - shorebird.yaml
+fonts:
+  - family: Urbanist
+    fonts:
+      - asset: assets/fonts/urbanist/Ubarnist-Regular.ttf
+      - asset: assets/fonts/urbanist/Urbanist-SemiBold.ttf
+      - asset: assets/fonts/urbanist/Urbanist-Medium.ttf
+      - asset: assets/fonts/urbanist/Urbanist-Bold.ttf
+        weight: 700
