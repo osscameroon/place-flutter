@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My App
 
 ![coverage][coverage_badge]
